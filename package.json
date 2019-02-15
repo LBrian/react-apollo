@@ -96,7 +96,7 @@
   },
   "sideEffects": false,
   "devDependencies": {
-    "@types/enzyme": "3.1.17",
+    "@types/enzyme": "3.1.18",
     "@types/enzyme-adapter-react-16": "1.0.4",
     "@types/graphql": "14.0.7",
     "@types/hoist-non-react-statics": "^3.0.1",
